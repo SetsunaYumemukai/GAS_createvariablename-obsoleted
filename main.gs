@@ -1,6 +1,6 @@
 function translateJPtoEN(Japanese) {
 
-//translateJPtoEN関数で、Google翻訳を行う。
+//translateJPtoEN関数で、翻訳を行う。
 const text = Japanese;
 
 //translate関数で日本語→英語に和訳
